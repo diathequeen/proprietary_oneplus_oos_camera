@@ -452,44 +452,4 @@ PRODUCT_PACKAGES += \
     CameraThemedIcon \
     oplus-support-wrapper \
     com.oplus.camera.unit.sdk.adapter \
-    com.oplus.camera.unit.sdk \
-    BeardSharp.bin \
-    BeardSharp.frag \
-    BeardSharp.vert \
-    PreAddSRBinary \
-    PreCalVarBinary \
-    PreCalcSRBinary \
-    PreDepouchBinary \
-    PreEyeMeanBinary \
-    PreHighPassBinary \
-    PreHighPassPreBinary \
-    PreHoriFilterBinary \
-    PreMakeupBinary \
-    PreMakeupMultiFaceBinary \
-    PreMakeupSingleFaceBinary \
-    PreMorphBinary \
-    PreOnlywhitenBinary \
-    PreSkintuneBinary \
-    PreSkintuneMRTBinary \
-    PreSurfaceBlurBinary \
-    PreVertFilterBinary \
-    PreVertSurBinary \
-    SkinCalcHue.bin \
-    SkinCalcHue.frag \
-    SkinCalcHue.vert \
-    SkinColorBlur.bin \
-    SkinColorBlur.frag \
-    SkinColorBlur.vert \
-    SkinColorUnify.bin \
-    SkinColorUnify.frag \
-    SkinColorUnify.vert \
-    SkinHueUnify.bin \
-    SkinHueUnify.frag \
-    SkinHueUnify.vert \
-    ThirdPartyPreHoriFilterBinary \
-    ThirdPartyPreMorphBinary \
-    ThirdPartyPreOnlywhitenBinary \
-    ThirdPartyPreSkintuneBinary \
-    ThirdPartyPreSkintuneMRTBinary \
-    ThirdPartyPreVertFilterBinary \
-    ThirdPartyPreVertSurBinary
+    com.oplus.camera.unit.sdk
